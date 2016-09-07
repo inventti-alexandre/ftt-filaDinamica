@@ -1,0 +1,10 @@
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\bin\Debug\FilaDinamica.exe.config
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\bin\Debug\FilaDinamica.exe
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\bin\Debug\FilaDinamica.pdb
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.Properties.Resources.resources
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.csproj.GenerateResource.Cache
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.exe
+C:\Users\082150354\Desktop\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.pdb
+C:\Users\Nappi\Downloads\FilaDinamica\FilaDinamica\FilaDinamica\bin\Debug\FilaDinamica.exe.config
+C:\Users\Nappi\Documents\TM\GitHub\2016_S2_filaDinamica\FilaDinamica\bin\Debug\FilaDinamica.exe.config

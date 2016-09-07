@@ -1,0 +1,9 @@
+Exercícios:
+1-) Implemente na classe da pilha dinâmica um método para retornar um string com todos os elementos empilhados.Você pode separar os elementos com um “-“.
+
+2-) Implemente a Fila utilizando a mesma técnica utilizada na pilha dinâmica. Observe que não será uma Fila circular, pois não há mais o problema de ter que descolar os elementos quando utilizamos esta técnica de elementos encadeados.
+
+3-) Altere a classe Fila dinâmica para que ela armazene objetos da classe Alunos (RA int, nome string).
+
+4-) Implemente na classe Fila um método para listar os seus elementos. Devolva um string. Você pode separar os
+elementos com um “-“.
